@@ -1,0 +1,32 @@
+{	
+  "projects" : [	
+    {	
+      "title": "Tribute Page v1",	
+      "link": "https://juzqrios.netlify.app/tribute-page-v1/index.html"	
+    },	
+    {	
+      "title": "Tribute Page v2",	
+      "link": "https://juzqrios.netlify.app/tribute-page-v2/index.html"	
+    },	
+    {	
+      "title": "Survey Form",	
+      "link": "https://juzqrios.netlify.app/survey-form/index.html"	
+    },	
+    {	
+      "title": "Personal Portfolio",	
+      "link": "https://juzqrios.netlify.app/personal-portfolio/index.html"	
+    },	
+    {	
+      "title": "Random Quote Machine",	
+      "link": "https://juzqrios.netlify.app/random-quote-machine/index.html"	
+    },	
+    {	
+      "title": "Product Landing Page",	
+      "link": "https://juzqrios.netlify.app/product-landing-page/index.html"	
+    },	
+    {	
+      "title": "Technical Documentation Page",	
+      "link": "https://juzqrios.netlify.app/technical-documentation-page/index.html"	
+    }	
+  ]	
+} 
