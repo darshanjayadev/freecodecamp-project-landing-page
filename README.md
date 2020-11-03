@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# freeCodeCamp Project landing page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Unified landing page for all my freeCodeCamp projects.
 
-## Available Scripts
+[//]: # (Screenshot, Application concept art etc)
+![Screenshot](./screenshot.png)
 
-In the project directory, you can run:
+[//]: # (Live Demo link)
+<p align="center">
+  <a href="https://mists-fictional.netlify.app/">Live Demo</a>
+</p>
+<p align="center">
+  <a href="https://www.figma.com/community/file/902504457634655831/freeCodeCamp-Projects">Figma Design</a>
+</p>
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* HTML
+* CSS
+* Figma
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Get Started
 
-### `npm test`
+### Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone this repository.
 
-### `npm run build`
+```bash
+git clone git@github.com:juzQrios/freecodecamp-project-landing-page.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Install dependencies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start local server.
 
-### `npm run eject`
+```bash
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+4. Open <http://localhost:3000/> in a browser.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can easily deploy this React application using one of the several methods to [Netlify](https://www.netlify.com).
 
-### `npm run build` fails to minify
+Easiest method being to deploy it from Git by clicking on the "[New site from Git](https://app.netlify.com/start)" button on Netlify dashboard.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Authors
+
+#### Darshan
+
+* GitHub: [@juzQrios](https://github.com/juzQrios)
+* LinkedIn: [Darshan J](https://www.linkedin.com/in/jayadevdarshan/)
+* Email: <dj30c.1@gmail.com>
