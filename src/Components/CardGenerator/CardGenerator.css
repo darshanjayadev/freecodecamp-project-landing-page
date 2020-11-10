@@ -1,0 +1,29 @@
+.CardGenerator {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 90%;
+  margin: 40px auto;
+  grid-gap: 20px;
+  justify-content: center;
+}
+
+/* Desktop */
+@media (min-width: 1200px) {
+  .CardGenerator {
+    width: 70%;
+  }
+}
+
+/* Tablets */
+@media (max-width: 900px) {
+  .CardGenerator {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobiles */
+@media (max-width: 600px) {
+  .CardGenerator {
+    grid-template-columns: 1fr;
+  }
+}
